@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in//jeancastn/"><p align="center"><img src="https://res.cloudinary.com/dntpphebk/image/upload/v1647685802/mask_inverted_f3gmfm.svg" width="400" height="400"/></p></a>
+<a href="https://linkedin.com/in//jeancastn/"><p align="center"><img src="https://github.com/VmMad/vmmad/blob/main/assets/mask%20inverted.svg" width="400" height="400"/></p></a>
 <h1 align="center">I'm JCDev</h1>
 
 <h3 align="center">I make things ♪</h3></br>
