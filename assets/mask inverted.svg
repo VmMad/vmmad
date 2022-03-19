@@ -7,14 +7,13 @@
 	    .light { display: none; }
 	    .dark { display: block; }
 	}
-@media (data-color-mode=light){
-	    .light { display: block; }
-	    .dark { display: none; }
-	}
-	@media (data-color-mode=dark){
-	    .light { display: none; }
-	    .dark { display: block; }
-	}
+.light[data-color-mode=light]{
+	    fill:#000000
+}
+	    .dark[data-color-mode=dark]{
+	    fill:#FFFFFF
+}
+
 @-webkit-keyframes animate-svg-fill-1 {
   0% {
     fill-opacity: 0;
