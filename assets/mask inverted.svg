@@ -3,7 +3,8 @@
     <style>
     .mask-svg { fill: #000000; }
 
-        @media (prefers-color-scheme: dark) {
+        @media (prefers-color-scheme: dark)
+        [data-color-mode=auto][data-dark-theme*=dark] {
             .mask-svg { fill: #ffffff; }
         }
 
