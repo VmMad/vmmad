@@ -10,8 +10,8 @@
 .light[data-color-mode=light]{
 	    fill:#000000
 }
-	    .dark[data-color-mode=dark]{
-	    fill:#FFFFFF
+	    .dark[data-color-mode=light]{
+	    fill:#000000
 }
 
 @-webkit-keyframes animate-svg-fill-1 {
