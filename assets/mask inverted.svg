@@ -7,13 +7,9 @@
 	    .light { display: none; }
 	    .dark { display: block; }
 	}
-.light[data-color-mode=light]{
-	    fill:#000000
-}
-	    .dark[data-color-mode=light]{
-	    fill:#000000
-}
-
+	    
+	    
+	    
 @-webkit-keyframes animate-svg-fill-1 {
   0% {
     fill-opacity: 0;
