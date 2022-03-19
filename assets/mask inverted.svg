@@ -1,0 +1,253 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 300.000000 300.000000" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+    .mask-svg { fill: #000000; }
+
+        @media (prefers-color-scheme: dark) {
+            .mask-svg { fill: #ffffff; }
+        }
+
+@-webkit-keyframes animate-svg-fill-1 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-1 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-1 {
+  -webkit-animation: animate-svg-fill-1 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s both;
+          animation: animate-svg-fill-1 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.8s both;
+}
+
+@-webkit-keyframes animate-svg-fill-2 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-2 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-2 {
+  -webkit-animation: animate-svg-fill-2 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9s both;
+          animation: animate-svg-fill-2 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 0.9s both;
+}
+
+@-webkit-keyframes animate-svg-fill-3 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-3 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-3 {
+  -webkit-animation: animate-svg-fill-3 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1s both;
+          animation: animate-svg-fill-3 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1s both;
+}
+
+@-webkit-keyframes animate-svg-fill-4 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-4 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-4 {
+  -webkit-animation: animate-svg-fill-4 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.1s both;
+          animation: animate-svg-fill-4 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.1s both;
+}
+
+@-webkit-keyframes animate-svg-fill-5 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-5 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-5 {
+  -webkit-animation: animate-svg-fill-5 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.2000000000000002s both;
+          animation: animate-svg-fill-5 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.2000000000000002s both;
+}
+
+@-webkit-keyframes animate-svg-fill-6 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-6 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-6 {
+  -webkit-animation: animate-svg-fill-6 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.3s both;
+          animation: animate-svg-fill-6 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.3s both;
+}
+
+@-webkit-keyframes animate-svg-fill-7 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-7 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-7 {
+  -webkit-animation: animate-svg-fill-7 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.4000000000000001s both;
+          animation: animate-svg-fill-7 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.4000000000000001s both;
+}
+
+@-webkit-keyframes animate-svg-fill-8 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+@keyframes animate-svg-fill-8 {
+  0% {
+    fill: transparent;
+  }
+
+  100% {
+    fill: rgb(255, 255, 255);
+  }
+}
+
+.svg-elem-8 {
+  -webkit-animation: animate-svg-fill-8 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.5s both;
+          animation: animate-svg-fill-8 0.7s cubic-bezier(0.47, 0, 0.745, 0.715) 1.5s both;
+}
+
+
+    </style>
+  </defs>
+<metadata>
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+</metadata>
+<g transform="translate(0.000000,300.000000) scale(0.050000,-0.050000)" stroke="none" style="filter:invert(1);" class="mask-svg">
+<path d="M1748 4598 c-56 -62 -55 -686 2 -1018 27 -158 37 -299 33 -451 -27
+-956 543 -1858 1222 -1936 624 -72 1255 881 1255 1897 0 167 12 268 50 420
+139 559 137 1013 -6 1059 -86 27 -392 -117 -669 -316 l-152 -109 -156 30
+c-167 32 -469 25 -611 -15 -69 -19 -80 -15 -168 51 -488 373 -714 483 -800
+388z m269 -68 c73 -39 243 -151 378 -250 l245 -179 125 32 c120 31 423 29 665
+-4 74 -10 94 -1 248 111 192 139 457 276 567 293 153 25 182 -360 64 -863 -34
+-147 -57 -323 -69 -530 -44 -763 -197 -1174 -614 -1647 -237 -268 -624 -341
+-916 -171 -564 327 -863 904 -882 1698 -4 171 -26 443 -49 606 -43 301 -51
+890 -13 949 28 43 113 28 251 -45z" class="svg-elem-1"></path>
+<path d="M4110 4374 c-146 -96 -410 -297 -410 -312 0 -7 48 -51 107 -98 76
+-60 137 -137 212 -264 58 -99 114 -175 123 -168 66 40 133 356 140 659 7 279
+-6 293 -172 183z" class="svg-elem-2"></path>
+<path d="M1833 4387 c-7 -8 -13 -86 -13 -175 0 -401 133 -858 198 -686 59 155
+228 367 362 456 l48 31 -119 95 c-270 214 -441 314 -476 279z" class="svg-elem-3"></path>
+<path d="M2493 3315 c-23 -86 -12 -205 27 -292 37 -80 37 -86 5 -72 -112 47
+-182 67 -236 68 -41 1 -77 20 -113 61 -112 127 -306 53 -292 -112 5 -62 19
+-86 70 -118 46 -29 65 -55 65 -94 1 -85 79 -273 144 -346 76 -87 141 -106 401
+-114 l213 -7 -7 51 c-5 27 -13 108 -19 178 -6 73 -33 176 -61 237 -42 93 -45
+107 -15 93 83 -39 188 -18 248 48 111 125 47 298 -129 346 -46 12 -126 44
+-178 70 -115 58 -109 58 -123 3z m-99 -358 c195 -50 326 -261 326 -524 l0
+-103 -161 3 c-361 7 -498 149 -499 514 l0 157 125 -13 c69 -7 163 -22 209 -34z" class="svg-elem-4"></path>
+<path d="M2258 2870 c-238 -129 -112 -511 159 -483 229 23 317 314 140 462
+-70 59 -211 69 -299 21z" class="svg-elem-5"></path>
+<path d="M3472 3330 c-21 -16 -95 -48 -165 -71 -173 -57 -209 -91 -221 -204
+-16 -141 70 -224 222 -211 l106 9 -35 -62 c-45 -75 -73 -200 -87 -371 l-10
+-130 214 7 c330 10 474 112 515 363 22 138 30 160 58 160 44 0 111 99 111 164
+0 169 -234 230 -328 86 -21 -32 -56 -47 -120 -55 -49 -5 -127 -28 -172 -50
+l-82 -41 29 45 c111 168 83 450 -35 361z m528 -456 c0 -372 -148 -534 -488
+-534 l-190 0 10 105 c39 403 186 542 583 553 l85 2 0 -126z" class="svg-elem-6"></path>
+<path d="M3549 2880 c-245 -121 -161 -500 111 -500 278 0 357 405 99 508 -101
+41 -112 40 -210 -8z" class="svg-elem-7"></path>
+<path d="M2980 2102 c0 -9 14 -28 30 -42 102 -85 -64 -329 -224 -330 -19 0
+-38 -16 -42 -35 -7 -38 45 -49 66 -15 7 11 62 52 123 91 l110 71 129 -75 c70
+-42 128 -82 128 -91 0 -23 55 -20 70 4 7 11 -12 29 -42 41 -235 89 -311 191
+-238 319 41 72 38 80 -40 80 -38 0 -70 -8 -70 -18z" class="svg-elem-8"></path>
+</g>
+</svg>
