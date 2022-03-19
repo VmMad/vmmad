@@ -7,11 +7,11 @@
 	    .light { display: none; }
 	    .dark { display: block; }
 	}
-@media [data-color-mode=light]{
+@media (data-color-mode=light){
 	    .light { display: block; }
 	    .dark { display: none; }
 	}
-	@media [data-color-mode=dark]{
+	@media (data-color-mode=dark){
 	    .light { display: none; }
 	    .dark { display: block; }
 	}
