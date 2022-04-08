@@ -10,7 +10,7 @@
 
 - ⚡ **Always looking for new challenges.**
 
-- ⚙ Currently working on my project <a href="https://github.com/VmMad/The-Phone-Cave"><span><b>The Phone Cave</b></span></a>
+- ⚙ Currently learning Native.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
