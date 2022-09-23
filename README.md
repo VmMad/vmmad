@@ -1,14 +1,17 @@
 <a href="https://linkedin.com/in//jeancastn/"><p align="center"><img src="https://github.com/VmMad/vmmad/blob/main/assets/mask%20inverted.svg?short_path=ce098bd" width="400" height="400"/></p></a>
-<h1 align="center">I'm JCDev</h1>
+<h1 align="center">I'm JC</h1>
 
-<h3 align="center">I make things ♪</h3></br>
-- 🌱 Currently learning <b> TypeScript, SaSS </b>
-
-- 👨‍💻 All of my projects are available at [https://github.com/VmMad/MyProjects](https://github.com/VmMad/MyProjects)
-
-- 📫 My email: **jcnoguera.dev@gmail.com**
+<h3 align="center"> Developer ♪</h3></br>
 
 - ⚡ **Always looking for new challenges.**
+
+- 🌱 Proud member of Boxfish Studio.
+
+- 👨‍💻 You can see my personal projects [clicking here](https://github.com/VmMad/MyProjects).
+
+- 📫 If you want to contact me my email is **jcnoguera.dev@gmail.com**.
+
+
 
 
 <h3 align="center">Connect with me:</h3>
