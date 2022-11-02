@@ -1,5 +1,5 @@
 <a href="https://linkedin.com/in//jeancastn/"><p align="center"><img src="https://github.com/VmMad/vmmad/blob/main/assets/mask%20inverted.svg?short_path=ce098bd" width="400" height="400"/></p></a>
-<h1 align="center">Hi!, I'm JC</h1>
+<h1 align="center">Hi! I'm JC</h1>
 
 <h3 align="center"> I make things ♪</h3></br>
 
